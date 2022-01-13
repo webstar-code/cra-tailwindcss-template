@@ -6,3 +6,5 @@
 
 
 use degit to clone this repo without git history
+
+`npx degit https://github.com/webstar-code/cra-tailwindcss-template.git <project name>`
